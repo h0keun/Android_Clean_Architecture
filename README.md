@@ -6,4 +6,5 @@
   [android-showcase](https://github.com/h0keun/android-showcase) 를 참고하며 공부하쟈
 
 
-[참고](https://choheeis.github.io/newblog//articles/2020-05/android-clean-architecture)
+[참고](https://choheeis.github.io/newblog//articles/2020-05/android-clean-architecture)  
+이외에도 패캠강의에도 MVP나 MVVM 등의 아키텍쳐 패턴에대한 부분을 다룬 강의가 있으니 확인할것
